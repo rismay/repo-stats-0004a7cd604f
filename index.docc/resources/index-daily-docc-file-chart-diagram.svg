@@ -1,0 +1,181 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420">
+<rect x="0" y="0" width="1200" height="420" fill="#f8fafc" />
+<text x="600" y="22" text-anchor="middle" font-size="16" font-weight="600" fill="#0f172a">Cumulative Day docc Files (2026-01-01 - 2026-02-23)</text>
+<line x1="60" y1="340" x2="1180" y2="340" stroke="#cbd5e1" stroke-width="1" />
+<g font-family="monospace" font-size="11" fill="#1e293b">
+<line x1="60" y1="340.0" x2="1180" y2="340.0" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="343.0" text-anchor="end">0</text>
+<line x1="60" y1="263.2110091743119" x2="1180" y2="263.2110091743119" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="266.2110091743119" text-anchor="end">54</text>
+<line x1="60" y1="186.42201834862385" x2="1180" y2="186.42201834862385" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="189.42201834862385" text-anchor="end">108</text>
+<line x1="60" y1="109.63302752293578" x2="1180" y2="109.63302752293578" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="112.63302752293578" text-anchor="end">162</text>
+<line x1="60" y1="32.8440366972477" x2="1180" y2="32.8440366972477" stroke="#e2e8f0" stroke-width="1" />
+<text x="52" y="35.8440366972477" text-anchor="end">216</text>
+</g>
+<g font-family="monospace">
+<rect x="60.0" y="187.8440366972477" width="18.77777777777778" height="152.1559633027523" fill="#0ea5e9" rx="2"/>
+<text x="69.38888888888889" y="370" transform="rotate(-45 69.38888888888889,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-01</text>
+<text x="69.38888888888889" y="183" text-anchor="middle" font-size="9" fill="#334155">107</text>
+<rect x="80.77777777777777" y="187.8440366972477" width="18.77777777777778" height="152.1559633027523" fill="#0ea5e9" rx="2"/>
+<text x="90.16666666666666" y="370" transform="rotate(-45 90.16666666666666,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-02</text>
+<text x="90.16666666666666" y="183" text-anchor="middle" font-size="9" fill="#334155">107</text>
+<rect x="101.55555555555556" y="187.8440366972477" width="18.77777777777778" height="152.1559633027523" fill="#0ea5e9" rx="2"/>
+<text x="110.94444444444444" y="370" transform="rotate(-45 110.94444444444444,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-03</text>
+<text x="110.94444444444444" y="183" text-anchor="middle" font-size="9" fill="#334155">107</text>
+<rect x="122.33333333333334" y="172.20183486238534" width="18.77777777777778" height="167.79816513761466" fill="#0ea5e9" rx="2"/>
+<text x="131.72222222222223" y="370" transform="rotate(-45 131.72222222222223,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-04</text>
+<text x="131.72222222222223" y="168" text-anchor="middle" font-size="9" fill="#334155">118</text>
+<rect x="143.11111111111111" y="183.57798165137615" width="18.77777777777778" height="156.42201834862385" fill="#0ea5e9" rx="2"/>
+<text x="152.5" y="370" transform="rotate(-45 152.5,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-05</text>
+<text x="152.5" y="179" text-anchor="middle" font-size="9" fill="#334155">110</text>
+<rect x="163.88888888888889" y="175.045871559633" width="18.77777777777778" height="164.954128440367" fill="#0ea5e9" rx="2"/>
+<text x="173.27777777777777" y="370" transform="rotate(-45 173.27777777777777,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-06</text>
+<text x="173.27777777777777" y="171" text-anchor="middle" font-size="9" fill="#334155">116</text>
+<rect x="184.66666666666669" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="194.05555555555557" y="370" transform="rotate(-45 194.05555555555557,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-07</text>
+<text x="194.05555555555557" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="205.44444444444446" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="214.83333333333334" y="370" transform="rotate(-45 214.83333333333334,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-08</text>
+<text x="214.83333333333334" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="226.22222222222223" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="235.61111111111111" y="370" transform="rotate(-45 235.61111111111111,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-09</text>
+<text x="235.61111111111111" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="247.0" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="256.3888888888889" y="370" transform="rotate(-45 256.3888888888889,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-10</text>
+<text x="256.3888888888889" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="267.77777777777777" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="277.1666666666667" y="370" transform="rotate(-45 277.1666666666667,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-11</text>
+<text x="277.1666666666667" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="288.55555555555554" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="297.94444444444446" y="370" transform="rotate(-45 297.94444444444446,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-12</text>
+<text x="297.94444444444446" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="309.33333333333337" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="318.7222222222223" y="370" transform="rotate(-45 318.7222222222223,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-13</text>
+<text x="318.7222222222223" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="330.11111111111114" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="339.50000000000006" y="370" transform="rotate(-45 339.50000000000006,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-14</text>
+<text x="339.50000000000006" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="350.8888888888889" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="360.2777777777778" y="370" transform="rotate(-45 360.2777777777778,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-15</text>
+<text x="360.2777777777778" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="371.6666666666667" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="381.0555555555556" y="370" transform="rotate(-45 381.0555555555556,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-16</text>
+<text x="381.0555555555556" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="392.44444444444446" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="401.83333333333337" y="370" transform="rotate(-45 401.83333333333337,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-17</text>
+<text x="401.83333333333337" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="413.22222222222223" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="422.61111111111114" y="370" transform="rotate(-45 422.61111111111114,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-18</text>
+<text x="422.61111111111114" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="434.0" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="443.3888888888889" y="370" transform="rotate(-45 443.3888888888889,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-19</text>
+<text x="443.3888888888889" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="454.77777777777777" y="166.5137614678899" width="18.77777777777778" height="173.4862385321101" fill="#0ea5e9" rx="2"/>
+<text x="464.1666666666667" y="370" transform="rotate(-45 464.1666666666667,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-20</text>
+<text x="464.1666666666667" y="162" text-anchor="middle" font-size="9" fill="#334155">122</text>
+<rect x="475.55555555555554" y="163.6697247706422" width="18.77777777777778" height="176.3302752293578" fill="#0ea5e9" rx="2"/>
+<text x="484.94444444444446" y="370" transform="rotate(-45 484.94444444444446,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-21</text>
+<text x="484.94444444444446" y="159" text-anchor="middle" font-size="9" fill="#334155">124</text>
+<rect x="496.33333333333337" y="165.09174311926608" width="18.77777777777778" height="174.90825688073392" fill="#0ea5e9" rx="2"/>
+<text x="505.7222222222223" y="370" transform="rotate(-45 505.7222222222223,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-22</text>
+<text x="505.7222222222223" y="161" text-anchor="middle" font-size="9" fill="#334155">123</text>
+<rect x="517.1111111111111" y="162.24770642201835" width="18.77777777777778" height="177.75229357798165" fill="#0ea5e9" rx="2"/>
+<text x="526.5" y="370" transform="rotate(-45 526.5,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-23</text>
+<text x="526.5" y="158" text-anchor="middle" font-size="9" fill="#334155">125</text>
+<rect x="537.8888888888889" y="160.8256880733945" width="18.77777777777778" height="179.1743119266055" fill="#0ea5e9" rx="2"/>
+<text x="547.2777777777778" y="370" transform="rotate(-45 547.2777777777778,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-24</text>
+<text x="547.2777777777778" y="156" text-anchor="middle" font-size="9" fill="#334155">126</text>
+<rect x="558.6666666666667" y="156.55963302752292" width="18.77777777777778" height="183.44036697247708" fill="#0ea5e9" rx="2"/>
+<text x="568.0555555555557" y="370" transform="rotate(-45 568.0555555555557,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-25</text>
+<text x="568.0555555555557" y="152" text-anchor="middle" font-size="9" fill="#334155">129</text>
+<rect x="579.4444444444445" y="156.55963302752292" width="18.77777777777778" height="183.44036697247708" fill="#0ea5e9" rx="2"/>
+<text x="588.8333333333334" y="370" transform="rotate(-45 588.8333333333334,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-26</text>
+<text x="588.8333333333334" y="152" text-anchor="middle" font-size="9" fill="#334155">129</text>
+<rect x="600.2222222222223" y="156.55963302752292" width="18.77777777777778" height="183.44036697247708" fill="#0ea5e9" rx="2"/>
+<text x="609.6111111111112" y="370" transform="rotate(-45 609.6111111111112,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-27</text>
+<text x="609.6111111111112" y="152" text-anchor="middle" font-size="9" fill="#334155">129</text>
+<rect x="621.0" y="156.55963302752292" width="18.77777777777778" height="183.44036697247708" fill="#0ea5e9" rx="2"/>
+<text x="630.3888888888889" y="370" transform="rotate(-45 630.3888888888889,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-28</text>
+<text x="630.3888888888889" y="152" text-anchor="middle" font-size="9" fill="#334155">129</text>
+<rect x="641.7777777777778" y="156.55963302752292" width="18.77777777777778" height="183.44036697247708" fill="#0ea5e9" rx="2"/>
+<text x="651.1666666666667" y="370" transform="rotate(-45 651.1666666666667,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-29</text>
+<text x="651.1666666666667" y="152" text-anchor="middle" font-size="9" fill="#334155">129</text>
+<rect x="662.5555555555555" y="153.71559633027525" width="18.77777777777778" height="186.28440366972475" fill="#0ea5e9" rx="2"/>
+<text x="671.9444444444445" y="370" transform="rotate(-45 671.9444444444445,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-30</text>
+<text x="671.9444444444445" y="149" text-anchor="middle" font-size="9" fill="#334155">131</text>
+<rect x="683.3333333333334" y="133.80733944954127" width="18.77777777777778" height="206.19266055045873" fill="#0ea5e9" rx="2"/>
+<text x="692.7222222222223" y="370" transform="rotate(-45 692.7222222222223,370)" text-anchor="middle" font-size="8" fill="#334155">2026-01-31</text>
+<text x="692.7222222222223" y="129" text-anchor="middle" font-size="9" fill="#334155">145</text>
+<rect x="704.1111111111111" y="108.21100917431193" width="18.77777777777778" height="231.78899082568807" fill="#0ea5e9" rx="2"/>
+<text x="713.5" y="370" transform="rotate(-45 713.5,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-01</text>
+<text x="713.5" y="104" text-anchor="middle" font-size="9" fill="#334155">163</text>
+<rect x="724.8888888888889" y="102.52293577981652" width="18.77777777777778" height="237.47706422018348" fill="#0ea5e9" rx="2"/>
+<text x="734.2777777777778" y="370" transform="rotate(-45 734.2777777777778,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-02</text>
+<text x="734.2777777777778" y="98" text-anchor="middle" font-size="9" fill="#334155">167</text>
+<rect x="745.6666666666667" y="93.99082568807339" width="18.77777777777778" height="246.0091743119266" fill="#0ea5e9" rx="2"/>
+<text x="755.0555555555557" y="370" transform="rotate(-45 755.0555555555557,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-03</text>
+<text x="755.0555555555557" y="89" text-anchor="middle" font-size="9" fill="#334155">173</text>
+<rect x="766.4444444444445" y="99.67889908256879" width="18.77777777777778" height="240.3211009174312" fill="#0ea5e9" rx="2"/>
+<text x="775.8333333333334" y="370" transform="rotate(-45 775.8333333333334,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-04</text>
+<text x="775.8333333333334" y="95" text-anchor="middle" font-size="9" fill="#334155">169</text>
+<rect x="787.2222222222223" y="113.89908256880736" width="18.77777777777778" height="226.10091743119264" fill="#0ea5e9" rx="2"/>
+<text x="796.6111111111112" y="370" transform="rotate(-45 796.6111111111112,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-05</text>
+<text x="796.6111111111112" y="109" text-anchor="middle" font-size="9" fill="#334155">159</text>
+<rect x="808.0" y="115.32110091743121" width="18.77777777777778" height="224.6788990825688" fill="#0ea5e9" rx="2"/>
+<text x="817.3888888888889" y="370" transform="rotate(-45 817.3888888888889,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-06</text>
+<text x="817.3888888888889" y="111" text-anchor="middle" font-size="9" fill="#334155">158</text>
+<rect x="828.7777777777778" y="113.89908256880736" width="18.77777777777778" height="226.10091743119264" fill="#0ea5e9" rx="2"/>
+<text x="838.1666666666667" y="370" transform="rotate(-45 838.1666666666667,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-07</text>
+<text x="838.1666666666667" y="109" text-anchor="middle" font-size="9" fill="#334155">159</text>
+<rect x="849.5555555555555" y="113.89908256880736" width="18.77777777777778" height="226.10091743119264" fill="#0ea5e9" rx="2"/>
+<text x="858.9444444444445" y="370" transform="rotate(-45 858.9444444444445,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-08</text>
+<text x="858.9444444444445" y="109" text-anchor="middle" font-size="9" fill="#334155">159</text>
+<rect x="870.3333333333334" y="95.41284403669724" width="18.77777777777778" height="244.58715596330276" fill="#0ea5e9" rx="2"/>
+<text x="879.7222222222223" y="370" transform="rotate(-45 879.7222222222223,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-09</text>
+<text x="879.7222222222223" y="91" text-anchor="middle" font-size="9" fill="#334155">172</text>
+<rect x="891.1111111111111" y="93.99082568807339" width="18.77777777777778" height="246.0091743119266" fill="#0ea5e9" rx="2"/>
+<text x="900.5" y="370" transform="rotate(-45 900.5,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-10</text>
+<text x="900.5" y="89" text-anchor="middle" font-size="9" fill="#334155">173</text>
+<rect x="911.8888888888889" y="93.99082568807339" width="18.77777777777778" height="246.0091743119266" fill="#0ea5e9" rx="2"/>
+<text x="921.2777777777778" y="370" transform="rotate(-45 921.2777777777778,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-11</text>
+<text x="921.2777777777778" y="89" text-anchor="middle" font-size="9" fill="#334155">173</text>
+<rect x="932.6666666666667" y="92.56880733944953" width="18.77777777777778" height="247.43119266055047" fill="#0ea5e9" rx="2"/>
+<text x="942.0555555555557" y="370" transform="rotate(-45 942.0555555555557,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-12</text>
+<text x="942.0555555555557" y="88" text-anchor="middle" font-size="9" fill="#334155">174</text>
+<rect x="953.4444444444445" y="79.77064220183485" width="18.77777777777778" height="260.22935779816515" fill="#0ea5e9" rx="2"/>
+<text x="962.8333333333334" y="370" transform="rotate(-45 962.8333333333334,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-13</text>
+<text x="962.8333333333334" y="75" text-anchor="middle" font-size="9" fill="#334155">183</text>
+<rect x="974.2222222222223" y="79.77064220183485" width="18.77777777777778" height="260.22935779816515" fill="#0ea5e9" rx="2"/>
+<text x="983.6111111111112" y="370" transform="rotate(-45 983.6111111111112,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-14</text>
+<text x="983.6111111111112" y="75" text-anchor="middle" font-size="9" fill="#334155">183</text>
+<rect x="995.0" y="79.77064220183485" width="18.77777777777778" height="260.22935779816515" fill="#0ea5e9" rx="2"/>
+<text x="1004.3888888888889" y="370" transform="rotate(-45 1004.3888888888889,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-15</text>
+<text x="1004.3888888888889" y="75" text-anchor="middle" font-size="9" fill="#334155">183</text>
+<rect x="1015.7777777777778" y="79.77064220183485" width="18.77777777777778" height="260.22935779816515" fill="#0ea5e9" rx="2"/>
+<text x="1025.1666666666667" y="370" transform="rotate(-45 1025.1666666666667,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-16</text>
+<text x="1025.1666666666667" y="75" text-anchor="middle" font-size="9" fill="#334155">183</text>
+<rect x="1036.5555555555557" y="66.97247706422019" width="18.77777777777778" height="273.0275229357798" fill="#0ea5e9" rx="2"/>
+<text x="1045.9444444444446" y="370" transform="rotate(-45 1045.9444444444446,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-17</text>
+<text x="1045.9444444444446" y="62" text-anchor="middle" font-size="9" fill="#334155">192</text>
+<rect x="1057.3333333333335" y="62.70642201834863" width="18.77777777777778" height="277.29357798165137" fill="#0ea5e9" rx="2"/>
+<text x="1066.7222222222224" y="370" transform="rotate(-45 1066.7222222222224,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-18</text>
+<text x="1066.7222222222224" y="58" text-anchor="middle" font-size="9" fill="#334155">195</text>
+<rect x="1078.1111111111113" y="59.86238532110093" width="18.77777777777778" height="280.13761467889907" fill="#0ea5e9" rx="2"/>
+<text x="1087.5000000000002" y="370" transform="rotate(-45 1087.5000000000002,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-19</text>
+<text x="1087.5000000000002" y="55" text-anchor="middle" font-size="9" fill="#334155">197</text>
+<rect x="1098.888888888889" y="57.01834862385323" width="18.77777777777778" height="282.9816513761468" fill="#0ea5e9" rx="2"/>
+<text x="1108.2777777777778" y="370" transform="rotate(-45 1108.2777777777778,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-20</text>
+<text x="1108.2777777777778" y="53" text-anchor="middle" font-size="9" fill="#334155">199</text>
+<rect x="1119.6666666666667" y="42.79816513761466" width="18.77777777777778" height="297.20183486238534" fill="#0ea5e9" rx="2"/>
+<text x="1129.0555555555557" y="370" transform="rotate(-45 1129.0555555555557,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-21</text>
+<text x="1129.0555555555557" y="38" text-anchor="middle" font-size="9" fill="#334155">209</text>
+<rect x="1140.4444444444446" y="30.0" width="18.77777777777778" height="310.0" fill="#0ea5e9" rx="2"/>
+<text x="1149.8333333333335" y="370" transform="rotate(-45 1149.8333333333335,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-22</text>
+<text x="1149.8333333333335" y="26" text-anchor="middle" font-size="9" fill="#334155">218</text>
+<rect x="1161.2222222222222" y="30.0" width="18.77777777777778" height="310.0" fill="#0ea5e9" rx="2"/>
+<text x="1170.611111111111" y="370" transform="rotate(-45 1170.611111111111,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-23</text>
+<text x="1170.611111111111" y="26" text-anchor="middle" font-size="9" fill="#334155">218</text>
+</g>
+</svg>
