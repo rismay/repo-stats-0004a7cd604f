@@ -174,8 +174,8 @@
 <rect x="1140.4444444444446" y="30.0" width="18.77777777777778" height="310.0" fill="#0ea5e9" rx="2"/>
 <text x="1149.8333333333335" y="370" transform="rotate(-45 1149.8333333333335,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-22</text>
 <text x="1149.8333333333335" y="26" text-anchor="middle" font-size="9" fill="#334155">218</text>
-<rect x="1161.2222222222222" y="30.0" width="18.77777777777778" height="310.0" fill="#0ea5e9" rx="2"/>
+<rect x="1161.2222222222222" y="42.79816513761466" width="18.77777777777778" height="297.20183486238534" fill="#0ea5e9" rx="2"/>
 <text x="1170.611111111111" y="370" transform="rotate(-45 1170.611111111111,370)" text-anchor="middle" font-size="8" fill="#334155">2026-02-23</text>
-<text x="1170.611111111111" y="26" text-anchor="middle" font-size="9" fill="#334155">218</text>
+<text x="1170.611111111111" y="38" text-anchor="middle" font-size="9" fill="#334155">209</text>
 </g>
 </svg>

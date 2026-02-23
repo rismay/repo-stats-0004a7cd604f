@@ -12,18 +12,26 @@ Generated date: 2026-02-23 | Window: 2026-01-01 through 2026-02-23.
 This is a DocC overview for commit activity and owned file snapshots across the selected range.
 
 Window: 2026-01-01 through 2026-02-23 • Commit interval: week • File interval: day • Package.swift interval: month.
-Total commits: 703. Latest cumulative counts: `Package.swift` 167, `.swift` 5299, `.md` 3651, `.docc` 218.
+Total commits: 706. Latest cumulative counts: `Package.swift` 155, `.swift` 5048, `.md` 3599, `.docc` 209.
 
 @Image(source: "index-stats-hero", alt: "Repository activity hero")
 
-## Report pages
+## Metric hubs
+
+### Commits and themes
 - <doc:overview>
 - <doc:commits>
+- <doc:submodules>
+
+### Swift and package surface
 - <doc:swift-files>
+- <doc:package-swift>
+
+### Markdown and DocC bundles
 - <doc:markdown-files>
 - <doc:docc-files>
-- <doc:package-swift>
-- <doc:submodules>
+
+### Snapshot pages
 - Week snapshot pages: `week-YYYY-MM-DD.md`
 - Month snapshot pages: `month-YYYY-MM.md`
 

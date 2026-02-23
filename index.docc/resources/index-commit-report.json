@@ -267,14 +267,14 @@
       "swift" : 5299
     },
     "2026-02-23" : {
-      "docc" : 218,
-      "md" : 3651,
-      "swift" : 5299
+      "docc" : 209,
+      "md" : 3599,
+      "swift" : 5048
     }
   },
   "cumulativePackageSwift" : {
     "2026-01" : 149,
-    "2026-02" : 167
+    "2026-02" : 155
   },
   "days" : [
     {
@@ -3343,17 +3343,56 @@
     {
       "day" : "2026-02-23",
       "ownedFiles" : {
-        "docc" : 218,
-        "md" : 3651,
-        "swift" : 5299
+        "docc" : 209,
+        "md" : 3599,
+        "swift" : 5048
       },
       "ownedFilesByOrgUser" : {
-
+        "modules\/finance" : {
+          "md" : 5,
+          "swift" : 27
+        },
+        "modules\/laussat-studio" : {
+          "docc" : 1,
+          "md" : 16
+        },
+        "modules\/tau-app" : {
+          "md" : 1
+        },
+        "organisms" : {
+          "docc" : 15,
+          "md" : 110,
+          "swift" : 255
+        },
+        "private" : {
+          "docc" : 1,
+          "md" : 2,
+          "swift" : 7
+        },
+        "provisioned" : {
+          "docc" : 9,
+          "md" : 78
+        },
+        "public" : {
+          "md" : 3,
+          "swift" : 13
+        }
       },
       "themes" : [
-
+        {
+          "commits" : 1,
+          "theme" : "adjust swift-repo-stats cli behavior"
+        },
+        {
+          "commits" : 1,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm submodule pointers"
+        }
       ],
-      "total" : 0
+      "total" : 3
     }
   ],
   "fileInterval" : "day",
@@ -3363,9 +3402,9 @@
   "showEmptyWeeks" : false,
   "since" : "2026-01-01",
   "totalOwnedFiles" : {
-    "docc" : 1058,
-    "md" : 19034,
-    "swift" : 8825
+    "docc" : 1084,
+    "md" : 19249,
+    "swift" : 9127
   },
   "totalOwnedFilesByModule" : {
     ".clia" : {
@@ -3426,14 +3465,21 @@
       "docc" : 1,
       "md" : 18
     },
+    "modules\/finance" : {
+      "md" : 5,
+      "swift" : 27
+    },
     "modules\/laussat-studio" : {
-      "docc" : 1,
-      "md" : 16
+      "docc" : 2,
+      "md" : 32
+    },
+    "modules\/tau-app" : {
+      "md" : 1
     },
     "organisms" : {
-      "docc" : 18,
-      "md" : 147,
-      "swift" : 309
+      "docc" : 33,
+      "md" : 257,
+      "swift" : 564
     },
     "orgs" : {
       "docc" : 136,
@@ -3441,18 +3487,18 @@
       "swift" : 3118
     },
     "private" : {
-      "docc" : 67,
-      "md" : 2136,
-      "swift" : 3029
+      "docc" : 68,
+      "md" : 2138,
+      "swift" : 3036
     },
     "provisioned" : {
-      "docc" : 112,
-      "md" : 893
+      "docc" : 121,
+      "md" : 971
     },
     "public" : {
       "docc" : 17,
-      "md" : 159,
-      "swift" : 586
+      "md" : 162,
+      "swift" : 599
     },
     "web" : {
       "md" : 3
@@ -5373,6 +5419,61 @@
       "total" : 119,
       "weekEnd" : "2026-02-22",
       "weekStart" : "2026-02-16"
+    },
+    {
+      "ownedFiles" : {
+        "docc" : 26,
+        "md" : 215,
+        "swift" : 302
+      },
+      "ownedFilesByModule" : {
+        "modules\/finance" : {
+          "md" : 5,
+          "swift" : 27
+        },
+        "modules\/laussat-studio" : {
+          "docc" : 1,
+          "md" : 16
+        },
+        "modules\/tau-app" : {
+          "md" : 1
+        },
+        "organisms" : {
+          "docc" : 15,
+          "md" : 110,
+          "swift" : 255
+        },
+        "private" : {
+          "docc" : 1,
+          "md" : 2,
+          "swift" : 7
+        },
+        "provisioned" : {
+          "docc" : 9,
+          "md" : 78
+        },
+        "public" : {
+          "md" : 3,
+          "swift" : 13
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "adjust swift-repo-stats cli behavior"
+        },
+        {
+          "commits" : 1,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm submodule pointers"
+        }
+      ],
+      "total" : 3,
+      "weekEnd" : "2026-03-01",
+      "weekStart" : "2026-02-23"
     }
   ]
 }

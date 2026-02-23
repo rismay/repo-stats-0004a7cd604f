@@ -2,27 +2,51 @@
 <rect x="0" y="0" width="1200" height="920" fill="#f8fafc"/>
 <text x="600" y="28" text-anchor="middle" font-size="20" fill="#1e293b">Latest owned file snapshot by submodule</text>
 <text x="600" y="52" text-anchor="middle" font-size="12" fill="#334155">Submodule hierarchy bubble map: parent bubbles hold nested submodules</text>
-<rect x="24.0" y="56.0" width="340.0" height="80.0" fill="#e2e8f0" fill-opacity="0.6" stroke="#475569" stroke-width="1" rx="10"/>
+<rect x="24.0" y="56.0" width="340.0" height="152.0" fill="#e2e8f0" fill-opacity="0.6" stroke="#475569" stroke-width="1" rx="10"/>
 <text x="36.0" y="72.0" font-size="13" fill="#0f172a" font-family="monospace">Legend</text>
 <text x="36.0" y="88.0" font-size="10" fill="#334155" font-family="monospace">Bubble colors indicate top buckets by file total</text>
 <circle cx="36.0" cy="106.0" r="4.5" fill="#0ea5e9"/>
-<text x="52.0" y="110.0" font-size="10" fill="#0f172a" font-family="monospace" alignment-baseline="middle">modules — 0 files</text>
-<circle cx="36.0" cy="124.0" r="4.5" fill="#0ea5e9"/>
-<text x="52.0" y="128.0" font-size="10" fill="#0f172a" font-family="monospace" alignment-baseline="middle">private — 0 files</text>
-<line x1="633.16" y1="166.97" x2="635.58" y2="145.61" stroke="#334155" stroke-width="0.9" stroke-opacity="0.7"/>
-<text x="643.58" y="149.61" text-anchor="start" fill="#0f172a" font-size="10" font-family="monospace">modules (0)</text>
-<line x1="697.80" y1="181.79" x2="704.93" y2="161.50" stroke="#334155" stroke-width="0.9" stroke-opacity="0.7"/>
-<text x="712.93" y="165.50" text-anchor="start" fill="#0f172a" font-size="10" font-family="monospace">private (0)</text>
+<text x="52.0" y="110.0" font-size="10" fill="#0f172a" font-family="monospace" alignment-baseline="middle">public — 514 files</text>
+<circle cx="36.0" cy="124.0" r="4.5" fill="#f59e0b"/>
+<text x="52.0" y="128.0" font-size="10" fill="#0f172a" font-family="monospace" alignment-baseline="middle">public/spm — 505 files</text>
+<circle cx="36.0" cy="142.0" r="4.5" fill="#e879f9"/>
+<text x="52.0" y="146.0" font-size="10" fill="#0f172a" font-family="monospace" alignment-baseline="middle">…/spm/universal — 315 files</text>
+<circle cx="36.0" cy="160.0" r="4.5" fill="#14b8a6"/>
+<text x="52.0" y="164.0" font-size="10" fill="#0f172a" font-family="monospace" alignment-baseline="middle">…/spm/cross — 129 files</text>
+<circle cx="36.0" cy="178.0" r="4.5" fill="#ef4444"/>
+<text x="52.0" y="182.0" font-size="10" fill="#0f172a" font-family="monospace" alignment-baseline="middle">…/spm/clis — 61 files</text>
+<circle cx="36.0" cy="196.0" r="4.5" fill="#ef4444"/>
+<text x="52.0" y="200.0" font-size="10" fill="#0f172a" font-family="monospace" alignment-baseline="middle">public/docc — 9 files</text>
+<line x1="819.05" y1="262.55" x2="835.01" y2="248.16" stroke="#334155" stroke-width="0.9" stroke-opacity="0.7"/>
+<text x="843.01" y="252.16" text-anchor="start" fill="#0f172a" font-size="10" font-family="monospace">public (514)</text>
+<line x1="815.00" y1="315.20" x2="832.84" y2="303.19" stroke="#334155" stroke-width="0.9" stroke-opacity="0.7"/>
+<text x="840.84" y="307.19" text-anchor="start" fill="#0f172a" font-size="10" font-family="monospace">spm (505)</text>
 <g font-family="monospace" font-size="11">
 <circle cx="600.0" cy="460.0" r="380.0" fill="#0ea5e9" fill-opacity="0.85" stroke="#0c4a6e" stroke-width="2"/>
-<title>root: 7182 files</title>
+<title>root: 6356 local, 6870 cumulative files</title>
 </g>
 <g font-family="monospace" font-size="11">
-<circle cx="630.3357149601027" cy="191.91086482690247" r="26.6" fill="#34d399" fill-opacity="0.90" stroke="#0f172a" stroke-width="1"/>
-<title>modules: 0 files</title>
+<circle cx="721.3698493491934" cy="350.59744212791867" r="133.0" fill="#34d399" fill-opacity="0.90" stroke="#0f172a" stroke-width="1"/>
+<title>public: 0 local, 514 cumulative files</title>
 </g>
 <g font-family="monospace" font-size="11">
-<circle cx="689.4730973862703" cy="205.46787070370277" r="26.6" fill="#f59e0b" fill-opacity="0.90" stroke="#0f172a" stroke-width="1"/>
-<title>private: 0 files</title>
+<circle cx="736.1984581974866" cy="295.3633180774341" r="12.0" fill="#f97316" fill-opacity="0.90" stroke="#0f172a" stroke-width="1"/>
+<title>public/docc: 0 local, 9 cumulative files</title>
+</g>
+<g font-family="monospace" font-size="11">
+<circle cx="777.6377236178413" cy="340.3689317140008" r="46.55" fill="#e879f9" fill-opacity="0.90" stroke="#0f172a" stroke-width="1"/>
+<title>public/spm: 0 local, 505 cumulative files</title>
+</g>
+<g font-family="monospace" font-size="11">
+<circle cx="787.0985332075635" cy="332.9869887511339" r="10.0" fill="#ef4444" fill-opacity="0.90" stroke="#0f172a" stroke-width="1"/>
+<title>public/spm/clis: 0 local, 61 cumulative files</title>
+</g>
+<g font-family="monospace" font-size="11">
+<circle cx="782.497710469215" cy="351.34073775514435" r="10.0" fill="#a78bfa" fill-opacity="0.90" stroke="#0f172a" stroke-width="1"/>
+<title>public/spm/cross: 0 local, 129 cumulative files</title>
+</g>
+<g font-family="monospace" font-size="11">
+<circle cx="765.6847225796864" cy="339.3079104220994" r="11.837544062852833" fill="#0ea5e9" fill-opacity="0.90" stroke="#0f172a" stroke-width="1"/>
+<title>public/spm/universal: 0 local, 315 cumulative files</title>
 </g>
 </svg>
